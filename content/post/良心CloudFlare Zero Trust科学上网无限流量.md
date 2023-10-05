@@ -17,7 +17,7 @@ Cloudflare Zero Trust通过以下方式提供安全保护：
 2. 安全连接：通过使用Cloudflare的网络，Zero Trust提供了安全的连接机制。它通过加密和认证来保护用户和企业资源之间的通信，防止数据泄露和中间人攻击。
 3. 网络分段：Zero Trust通过网络分段将企业网络划分为多个安全区域。这样可以限制不同用户和设备之间的访问，减少横向扩展攻击的风险。
 4. 威胁情报和分析：Cloudflare Zero Trust利用实时的威胁情报和分析来检测和阻止潜在的安全威胁。它可以识别异常行为、恶意流量，并采取相应的安全措施。
-![](https://gitee.com/spring3th/pubpic/raw/master/img/cf.avif)
+![](https://gitee.com/spring3th/pubpic/raw/master/img/warp2.png)
 ## 准备就绪
 
 1. 电脑/手机
@@ -53,8 +53,7 @@ Cloudflare Zero Trust通过以下方式提供安全保护：
 3. 选择团队
 4. 选择域名后缀，注意：qq邮箱收不到邮件，改gmail就正常
 
-
-![](https://gitee.com/spring3th/pubpic/raw/master/img/cv2.avif)
+![](https://gitee.com/spring3th/pubpic/raw/master/img/warp1.png)
 ## 测试
 
 把原来的ShadowSocks关闭，启动WARP，速度很快，可以实现全局科学上网，解锁WARP, 刚好VPN要到期了。
