@@ -1,6 +1,6 @@
 ---
 
-title: "EPG问答"
+title: "CMMI软件成熟度模型之EPG问答"
 date: 2024-01-22T01:37:56+08:00
 lastmod:  2024-01-22T01:37:56+08:00
 draft: false
@@ -12,11 +12,11 @@ contentCopyright: '<a rel="license noopener" href="https://en.wikipedia.org/wiki
 
 ---
 
-###  
+# PG模拟问答
 
-#### PAD PROCESS Asset Development
+# PAD PROCESS Asset Development
 
-**过程资产开发**
+# **过程资产开发**
 
 **目的**：开发并保持更新执行工作所需的过程资产
 
@@ -148,9 +148,9 @@ contentCopyright: '<a rel="license noopener" href="https://en.wikipedia.org/wiki
     > 如过程本身需要改进，则采用因果分析法找出根本原因后制定具体改进措施，然后实施改进。
     > 如是执行力的问题，则进一步加强培训及执行的监督。
 
-#### PCM Process management
+# PCM Process management
 
-**过程管理**
+# **过程管理**
 
 **目的**：管理和实施过程和基础条件的持续改进，支持业务目标的实现，确定和实施能够带来的最大效益的过程改进；
 
@@ -302,9 +302,9 @@ contentCopyright: '<a rel="license noopener" href="https://en.wikipedia.org/wiki
 
     > 通过假设性检验方法证明改进有明显效果。收集试点项目改进前后的数据，进行评估，使用假设性检验（T检验）的方式，对比两组数据进行对比,P<0.05,代表改进有显著效果
 
-#### MPM Manging Performance And Measurement
+###  MPM Manging Performance And Measurement
 
-**管理性能与度量**
+###  **管理性能与度量**
 
 **目的**：使用度量和分析来管理性能，以实现业务目标
 
@@ -479,7 +479,7 @@ contentCopyright: '<a rel="license noopener" href="https://en.wikipedia.org/wiki
     > EPG定期（半年或1年）公布组织度量数据；
     > 同时还有向高层汇报。
 
-#### CMMI评估EPG问答
+# 网上整理CMMI评估EPG问答
 
 1. **EPG是什么 ？**
 
